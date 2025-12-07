@@ -1,0 +1,4 @@
+streamlit
+tweepy
+vaderSentiment
+python-dotenv
